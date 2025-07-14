@@ -1,4 +1,4 @@
-```markdown
+
 # 🍅 Tomato Plant Pathology Detection using Computer Vision  
 **GitHub Repository: `tomato-disease-detection`**
 
@@ -162,15 +162,3 @@ python src/inference.py --image field_sample.jpg --model yolov8
 
 # 📜 License
 MIT License
-``` 
-
-This structure provides:
-- Clear problem statement highlighting agricultural impact
-- Comprehensive technical specifications
-- Standardized input/output formats
-- Multiple SOTA model options
-- Production-ready API implementation
-- Concrete validation criteria
-- End-to-end workflow from data to deployment
-
-The format maintains consistency with the curator's example while adapting all sections to computer vision requirements and agricultural context.
