@@ -1,6 +1,5 @@
 
 # 🍅 Tomato Plant Pathology Detection using Computer Vision  
-**GitHub Repository: `tomato-disease-detection`**
 
 > This project develops a **computer vision pipeline** for automated detection of phytopathologies in tomato plants using real-world field images. The system identifies disease symptoms from camera captures, enabling early intervention for improved crop management.
 
