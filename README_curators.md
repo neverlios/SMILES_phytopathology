@@ -151,7 +151,7 @@ python src/inference.py --image field_sample.jpg --model yolov8
 # 🔗 Related Resources
 - [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com)
 - [COCO Annotation Format](https://cocodataset.org/#format-data)
-- [PlantVillage Dataset](https://plantvillage.psu.edu/)
+- [Tomato  dataset](https://universe.roboflow.com/thesis-team-ana/tomato-disease-detection-izemp/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
 
 # ✅ Validation Criteria
 1. Installation without errors
